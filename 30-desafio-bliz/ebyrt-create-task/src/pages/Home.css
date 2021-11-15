@@ -1,0 +1,73 @@
+main {
+  margin: auto;
+  width: 75%;
+  background-color:rgb(245,245,220);
+  border: 2px solid black;
+}
+
+input {
+  width: 50%;
+  height: 30px;
+}
+
+.homeForm {
+  width: 80%;
+  margin: auto;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+h1 {
+  margin-top: 20px;
+  padding-top: 20px;
+  text-align: center;
+  color: blue;
+}
+
+.formatImage {
+  width: 25px;
+}
+
+.containerImgs {
+  display:inline-block;
+}
+
+select {
+  height: 35px;
+}
+
+button {
+  height: 35px;
+}
+
+
+.olTasks {
+  width: 80%;
+  margin-left: 13.5%;
+}
+
+.containerEdit {
+  width: 50%;
+  padding-left: 10px;
+  background-color: turquoise;
+  margin: auto;
+  height: 310px;
+  border: 1px solid black;
+}
+
+
+li {
+  border: 1px solid black ;
+  width: 80%;
+  padding-left: 10px;
+  display: flex;
+  align-items: center;
+}
+
+.avoImgs {
+  margin-left: 25px;
+}
+
+span {
+  color: red;
+ }
